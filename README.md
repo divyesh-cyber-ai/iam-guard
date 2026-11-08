@@ -1,5 +1,5 @@
 
-# 🛡️ IAM Guard
+#  IAM Guard
 
 ### See beyond permissions. Understand risk.
 
